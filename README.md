@@ -11,8 +11,8 @@ The main protocol has been independently endorsed by [Prof. Bob Reed (University
 | If you want to… | Use | What it is |
 |---|---|---|
 | Run a manual, human-in-the-loop adversarial audit of a high-stakes paper | [**research-audit-duel-protocol**](https://github.com/tjhavranek/research-audit-duel-protocol) | The main protocol: the Duel + MAD workflows across ChatGPT, Gemini, Grok, and Claude, with a worked example and an external endorsement. This is the one to read first. |
-| Automate that audit across Claude + Codex, without writing code | [**mad-research**](https://github.com/tjhavranek/mad-research) | Three Claude Code skills — one-shot Codex calls, collaborative build with cross-review, and a three-stream adversarial audit. The working automation, and the most actively developed of these repos. |
-| Triage an ERC Starting/Consolidator draft before peer review | [**erc-ai-feedback**](https://github.com/tjhavranek/erc-ai-feedback) | A prompt + rubric for a structured pre-review against ERC criteria. Doesn't replace human reviewers — it frees workshop time for what AI can't address. |
+| Automate that audit across Claude + Codex, without writing code | [**mad-research**](https://github.com/tjhavranek/mad-research) | Three Claude Code skills: one-shot Codex calls, collaborative build with cross-review, and a three-stream adversarial audit. The working automation, and the most actively developed of these repos. |
+| Triage an ERC Starting/Consolidator draft before peer review | [**erc-ai-feedback**](https://github.com/tjhavranek/erc-ai-feedback) | A prompt + rubric for a structured pre-review against ERC criteria. Doesn't replace human reviewers; it frees workshop time for what AI can't address. |
 | Curious what kids can build? | [**race**](https://github.com/tjhavranek/race) | A small two-player browser racing game our kids (ages 8–12) made with Claude Code, set in our town of Litomyšl. |
 
 ### Cite the protocol
