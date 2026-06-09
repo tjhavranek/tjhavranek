@@ -2,7 +2,9 @@
 
 Professor of economics at Charles University, Prague. Meta-analyst and applied macroeconomist working on publication bias, p-hacking, and Bayesian model averaging (often with [Zuzana Iršová](https://irsova.com)). Affiliated with CEPR and the Stanford METRICS center.
 
-I use this page as a working notebook for a few **AI-assisted research-auditing** experiments: a small family of tools that bring adversarial review to empirical papers, grant proposals, and referee reports. The newest and most ambitious is a Claude-only **workshop** (CRUCIBLE) that argues a paper to the sentence and then, optionally, rebuilds it. It grew out of a manual, human-in-the-loop **audit protocol** (multi-model: ChatGPT, Gemini, Grok, Claude) and its **automation** for the Claude Code + Codex command line. That protocol is the methodology to cite. The same approach covers a **domain application** for ERC grant drafts, alongside the meta-analysis work in the labs below. The tools surface criticism for a human to weigh. They are not a substitute for judgment.
+I use this page as a working notebook for a few **AI-assisted research-auditing** experiments: a small family of tools that bring adversarial review to empirical papers, grant proposals, and referee reports. The newest and most ambitious is a Claude-only **workshop** (CRUCIBLE) that argues a paper to the sentence and then, optionally, rebuilds it. It grew out of a manual, human-in-the-loop **audit protocol** (multi-model: ChatGPT, Gemini, Grok, Claude) and its **automation** for the Claude Code + Codex command line. That protocol is the methodology to cite. The same approach covers a **domain application** for ERC grant drafts, alongside the meta-analysis work in the labs below.
+
+The tools surface criticism for a human to weigh. They are not a substitute for judgment.
 
 The underlying Duel/MAD protocol has been independently endorsed by [Prof. Bob Reed (University of Canterbury / MAER-Net)](https://maer-net.org/post/ai_duel).
 
@@ -25,5 +27,7 @@ Iršová & Havránek (2026), [doi:10.5281/zenodo.19105954](https://doi.org/10.52
 - Website: [tomashavranek.cz](https://tomashavranek.cz)
 - ORCID: [0000-0002-3158-2539](https://orcid.org/0000-0002-3158-2539)
 - Labs: [meta-analysis.cz](https://meta-analysis.cz) · [easymeta.org](https://easymeta.org)
+
+*Getting started:* CRUCIBLE and mad-research are Claude Code skills, so they need a Claude subscription (mad-research also calls Codex). research-audit-duel-protocol and erc-ai-feedback are just prompts and documents, with nothing to install. Each repo's README has the steps.
 
 *A note on confidentiality:* these tools send your text to third-party AI providers. Each repo's README states what goes where, so read it before sending anything embargoed, under double-blind review, or otherwise non-public.
