@@ -23,7 +23,7 @@ We have also measured this rather than asserted it. In a pre-registered, identit
 
 ### Citing
 
-The audit protocol: Iršová & Havránek (2026), [doi:10.5281/zenodo.19105954](https://doi.org/10.5281/zenodo.19105954). The experiment: Havránek & Iršová (2026), [arXiv:2607.14713](https://arxiv.org/abs/2607.14713). The datasets: [doi:10.5281/zenodo.21773678](https://doi.org/10.5281/zenodo.21773678), together with the individual paper whose data you use. The core protocol repos ship a `CITATION.cff`, so GitHub's "Cite this repository" works there too.
+The workshop (CRUCIBLE), the more advanced tool: Havránek & Iršová (2026), [doi:10.5281/zenodo.20828996](https://doi.org/10.5281/zenodo.20828996). The audit protocol it grew out of: Iršová & Havránek (2026), [doi:10.5281/zenodo.19105954](https://doi.org/10.5281/zenodo.19105954). The experiment: Havránek & Iršová (2026), [arXiv:2607.14713](https://arxiv.org/abs/2607.14713). The datasets: [doi:10.5281/zenodo.21773678](https://doi.org/10.5281/zenodo.21773678), together with the individual paper whose data you use. Each tool repo ships a `CITATION.cff`, so GitHub's "Cite this repository" works there too.
 
 ### Elsewhere
 
