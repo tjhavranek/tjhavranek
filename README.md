@@ -10,6 +10,8 @@ We tested them against the simplest alternative, expecting them to win. In a pre
 
 For students at Charles University there are two web apps with nothing to install: an unofficial [check of an application to the university's grant agency](https://tjhavranek.github.io/gauk-ai-feedback/) (GA UK) before submission, and [feedback on an economics thesis](https://tjhavranek.github.io/ies-thesis-feedback/) at the Institute of Economic Studies before the seminar.
 
+All the browser apps, for papers, ERC drafts, GA UK applications, and theses, are on one page: [tjhavranek.github.io](https://tjhavranek.github.io/).
+
 ### Which repo should I use?
 
 | If you want to… | Use | What it is |
